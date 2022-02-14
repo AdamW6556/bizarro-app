@@ -4,12 +4,12 @@ A mobile bicycle center where enthusiasts can post announcements on the purchase
 # TODO - screens
 - [#] Serialization and deserialization of Date (by using custom serializer)
 - [#] Image transferring between client app and server
-- [] Token authentication
-- [] Search - record row component
-- [] Search - record list
-- [] Search - filtering section
-- [] Search - filtering screen
-- [] Search - filtering logic (GET records with query)
+- [#] Token authentication
+- [#] Search - record row component
+- [#] Search - record list
+- [#] Search - filtering section
+- [#] Search - filtering screen
+- [#] Search - filtering logic (GET records with query)
 
 # TODO - endpoints (implement in test server and client app)
 - [#] PUT records
@@ -18,9 +18,9 @@ A mobile bicycle center where enthusiasts can post announcements on the purchase
 - [#] GET records/{query}
 - [#] GET records/{recordId}
   
-- [] GET users/{userId}/records
-- [] GET users/{userId}/profile
-- [] GET users/{userId}/opinions
+- [#] GET users/{userId}/records
+- [#] GET users/{userId}/profile
+- [#] GET users/{userId}/opinions
   
-- [] POST opinions
-- [] GET regulations 
+- [#] POST opinions
+- [#] GET regulations 
