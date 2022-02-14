@@ -5,8 +5,11 @@ A mobile bicycle center where enthusiasts can post announcements on the purchase
 ![Screenshot](SignUpScreen.PNG)
 ![Screenshot](SignInScreen.PNG)
 ![Screenshot](UserRecordList.PNG)
+![Screenshot](FilterScreen.PNG)
+![Screenshot](CompareScreen.PNG)
 ![Screenshot](RecordDetailsScreen.PNG)
 ![Screenshot](UserProfileScreen.PNG)
+![Screenshot](AddOpinionScreen.PNG)
 ![Screenshot](SettingsScreen.PNG)
 # TODO - screens
 - [#] Serialization and deserialization of Date (by using custom serializer)
