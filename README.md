@@ -4,7 +4,10 @@ A mobile bicycle center where enthusiasts can post announcements on the purchase
 # Screenshots about application look:
 ![Screenshot](SignUpScreen.PNG)
 ![Screenshot](SignInScreen.PNG)
-
+![Screenshot](UserRecordList.PNG)
+![Screenshot](RecordDetailsScreen.PNG)
+![Screenshot](UserProfileScreen.PNG)
+![Screenshot](SettingsScreen.PNG)
 # TODO - screens
 - [#] Serialization and deserialization of Date (by using custom serializer)
 - [#] Image transferring between client app and server
