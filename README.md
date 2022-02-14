@@ -8,6 +8,7 @@ A mobile bicycle center where enthusiasts can post announcements on the purchase
 ![Screenshot](FilterScreen.PNG)
 ![Screenshot](CompareScreen.PNG)
 ![Screenshot](RecordDetailsScreen.PNG)
+![Screenshot](AddRecordScreen.PNG)
 ![Screenshot](UserProfileScreen.PNG)
 ![Screenshot](AddOpinionScreen.PNG)
 ![Screenshot](SettingsScreen.PNG)
